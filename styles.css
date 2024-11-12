@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
+  <head>
+    <style>
 body {
 background-color: light-blue;
 font: caveat
 }
-</style>
-</head>
+
+.page2.html table {
+  border-collapse:collapse;
+
+
+    </style>
+  </head>
 </html>
