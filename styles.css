@@ -3,13 +3,26 @@
   <head>
     <style>
 body {
-background-color: light-blue;
-font: caveat
+  font-size: 30
+}
+button:link, button:visited {
+  background-color: white;
+  font-size: 30px;
+  text-align: center;
 }
 
-.page2.html table {
-  border-collapse:collapse;
-
+button:hover, button:active
+{background-color: red;
+  font-size: 30px;
+  text-align: center;
+}
+.button {
+  color:white;
+  text-align:left;
+  background-color:green;
+  font-size:30px;
+  
+}
 
     </style>
   </head>
